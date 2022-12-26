@@ -1,5 +1,5 @@
 ---
-title: 'DSApps 2022 @ TAU: Assignment 1'
+title: 'DSApps 2023 @ TAU: Assignment 1'
 author: "Giora Simchoni"
 date: "`r Sys.Date()`"
 output: 
@@ -19,18 +19,18 @@ Welcome to Assignment 1 in R!
 This is the first graded assignment where you actually have to *submit* a solution. So please pay attention:
 
 * You can play with the assignment in Playground mode, but:
-* Only your private Github repository assigned to you by the course admin will be cloned and graded (Submission mode, see instructions [here](https://github.com/DSApps-2022/Class_Slides/blob/master/Apps_of_DS_HW.pdf))
+* Only your private Github repository assigned to you by the course admin will be cloned and graded (Submission mode, see instructions [here](https://github.com/DSApps-2023/Class_Slides/blob/master/Apps_of_DS_HW.pdf))
 * Like any other University assignment, your work should remain private
-* You need to `git clone` your private Github repository locally as explained [here](https://github.com/DSApps-2022/Class_Slides/blob/master/Apps_of_DS_HW.pdf)
+* You need to `git clone` your private Github repository locally as explained [here](https://github.com/DSApps-2023/Class_Slides/blob/master/Apps_of_DS_HW.pdf)
 * You need to uncomment the starter code inside the chunk, replace the `### YOUR CODE HERE ###`, run the chunk and see that you're getting the expected result
 * Pay attention to what you're asked to do and the required output
 * For example, using a *different* function than the one you were specifically asked to use, will decrease your score (unless you amaze me)
 * Your notebook should run smoothly from start to end if someone presses in the RStudio toolbar Run --> Restart R and Run All Chunks
 * When you're done knit the entire notebook into a html file, this is the file that would be graded
 * You can add other files but do not delete any files
-* Commit your work and push to your private Github repository as explained [here](https://github.com/DSApps-2022/Class_Slides/blob/master/Apps_of_DS_HW.pdf)
+* Commit your work and push to your private Github repository as explained [here](https://github.com/DSApps-2023/Class_Slides/blob/master/Apps_of_DS_HW.pdf)
 
-This assignment is due: 7/3 23:59
+This assignment is due: 27/3 23:59
 
 ### The `passwords` Dataset
 
