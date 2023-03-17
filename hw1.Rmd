@@ -182,7 +182,7 @@ For your convenience:
 #   ))
 ```
 
-Do the same as above (yes, again), now add a new column `value_seconds` which contains the "Time to crack by online guessing **in seconds**", using the `time_unit_seconds` column you have just created. Create the two columns with a single call to `mutate()`:
+Do the same as above (yes, again), but now use the `case_match()` function, and in addition add a new column `value_seconds` which contains the "Time to crack by online guessing **in seconds**", using the `time_unit_seconds` column you have just created. Create the two columns with a single call to `mutate()`:
 
 ```{r}
 # passwords <- passwords %>%
